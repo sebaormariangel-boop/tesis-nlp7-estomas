@@ -25,13 +25,6 @@ Los análisis integran:
 
 Las tablas de gran tamaño que no fueron incorporadas directamente en el documento principal o en el PDF de material suplementario se incluyen aquí como archivos suplementarios externos. En el manuscrito, estos archivos se citan como **Tabla Suplementaria X** según corresponda.
 
-Ejemplos:
-
-- **Tabla Suplementaria 6.** 
-- **Tabla Suplementaria 7.**
-- **Tabla Suplementaria 8.** 
-- **Tabla Suplementaria 9.**
-
 ## Descripción general del análisis
 
 De manera resumida, el flujo de trabajo incluyó:
